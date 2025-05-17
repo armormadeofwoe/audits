@@ -6,6 +6,7 @@
 
 
 ### Private Engagements
+All undisclosed engagements can be backed with a reference, in case of interest
 | Date             | Protocol    | Format |
 |:-------------------|:-------------|:-----|
 | April 2025  | SIR sale  | Syzygy team audit |
