@@ -5,9 +5,20 @@
 - **Telegram:** https://t.me/armormadeofwoe
 
 
+### Private Engagements
+| Date             | Protocol    | 
+|:-------------------|:-------------|
+| April 2025  | SIR sale  |
+| April 2025 | SIR trading |
+
+
 ### Notable Public Contests
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|May 2025  | Alchemix | Cantina | TBD |$TBD |
+|April 2025  | ZKP2P | Sherlock | TBD |$TBD |
+|April 2025  | Infinifi | Cantina | TBD |$TBD |
+|April 2025  | Metropolis | Cantina | TBD |$TBD |
 |March 2025  | Yeet | Immunefi | 1 Critical - TBD |$TBD |
 |February 2025  | RAAC | Codehawks | TBD| $TBD|
 |January 2025  | 🥉HMX  | Cantina | 1 Medium  | $4009.60 |
