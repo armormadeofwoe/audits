@@ -6,10 +6,13 @@
 
 
 ### Private Engagements
-| Date             | Protocol    | 
-|:-------------------|:-------------|
-| April 2025  | SIR sale  |
-| April 2025 | SIR trading |
+| Date             | Protocol    | Format |
+|:-------------------|:-------------|:-----|
+| April 2025  | SIR sale  | Syzygy team audit |
+| April 2025 | SIR trading | Syzygy team audit |
+| November 2024 | Undisclosed | junior w/ senior auditor
+| October 2024 | Lotus | junior w/ Egis sec |
+| May 2024 | Undisclosed | junior w/ senior auditor |
 
 
 ### Notable Public Contests
