@@ -20,11 +20,10 @@ All undisclosed engagements can be backed with a reference, in case of interest
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
 |May 2025  | Alchemix | Cantina | TBD |$TBD |
-|April 2025  | ZKP2P | Sherlock | TBD |$TBD |
-|April 2025  | Infinifi | Cantina | TBD |$TBD |
-|April 2025  | Metropolis | Cantina | TBD |$TBD |
-|March 2025  | Yeet | Immunefi | 1 Critical - TBD |$TBD |
-|February 2025  | RAAC | Codehawks | TBD| $TBD|
+|April 2025  | ZKP2P | Sherlock | TBD |OP 672 |
+|April 2025  | Infinifi | Cantina | 1 High 1 Medium |$1248 |
+|March 2025  | Yeet | Immunefi | 1 Critical |$38 |
+|February 2025  | RAAC | Codehawks | 20 High 18 Medium| $1768|
 |January 2025  | 🥉HMX  | Cantina | 1 Medium  | $4009.60 |
 |December 2024  | Numa | Sherlock | 2 Medium  | $4647 |
 |November 2024  | 🥈Teller | Sherlock | 2 High 1 Medium  | $3648| 
