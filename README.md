@@ -4,6 +4,12 @@
 - **Discord:** @armormadeofwoe
 - **Telegram:** https://t.me/armormadeofwoe
 
+### Public Engagements
+
+| Date             | Protocol    | Format | Type |
+|:-------------------|:-------------|:-----|:-------|
+| June 2025 | Exponent finance  | Certora  | Solana 🦀 |
+
 
 ### Private Engagements
 All undisclosed engagements can be backed with a reference, in case of interest
