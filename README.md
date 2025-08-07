@@ -6,9 +6,9 @@
 
 ### Public Engagements
 
-| Date             | Protocol    | Format | Type |
-|:-------------------|:-------------|:-----|:-------|
-| June 2025 | Exponent finance  | Certora  | Solana 🦀 |
+| Date             | Protocol    | Format | Ecosystem | Protocol Type |
+|:-------------------|:-------------|:-----|:-------|:-----|
+| June 2025 | Exponent finance  | Certora  | Solana 🦀 | Pendle on Solana  |
 
 
 ### Private Engagements
