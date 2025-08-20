@@ -4,12 +4,20 @@
 - **Discord:** @armormadeofwoe
 - **Telegram:** https://t.me/armormadeofwoe
 
+
+### Bug Bounties
+
+| Date             | Protocol    | Severity|
+|:-------------------|:-------------|:-----|
+| Aug 2025 | Yearn  | High |
+
+
 ### Public Engagements
 
 | Date             | Protocol    | Format | Ecosystem | Protocol Type |
 |:-------------------|:-------------|:-----|:-------|:-----|
+| July 2025 | Keel-fi ALM  | Certora  | Solana 🦀 | Maker/Spark on Solana  |
 | June 2025 | Exponent finance  | Certora  | Solana 🦀 | Pendle on Solana  |
-
 
 ### Private Engagements
 All undisclosed engagements can be backed with a reference, in case of interest
