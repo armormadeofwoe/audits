@@ -16,7 +16,7 @@
 
 | Date             | Protocol    | Format | Ecosystem | Protocol Type |
 |:-------------------|:-------------|:-----|:-------|:-----|
-| July 2025 | Keel-fi ALM  | Certora  | Solana 🦀 | Maker/Spark on Solana  |
+| July 2025 | TBD | Certora  | Solana 🦀 | TBD  |
 | June 2025 | Exponent finance  | Certora  | Solana 🦀 | Pendle on Solana  |
 
 ### Private Engagements
