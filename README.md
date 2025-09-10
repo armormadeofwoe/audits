@@ -16,7 +16,8 @@
 
 | Date             | Protocol    | Format | Ecosystem | Protocol Type |
 |:-------------------|:-------------|:-----|:-------|:-----|
-| July 2025 | TBD | Certora  | Solana 🦀 | TBD  |
+| July 2025 | Compound Compensator | Certora  | EVM | COMP delegation  |
+| July 2025 | KeelFi ALM | Certora  | Solana 🦀 | Maker/Spark on Solana  |
 | June 2025 | Exponent finance  | Certora  | Solana 🦀 | Pendle on Solana  |
 
 ### Private Engagements
