@@ -7,9 +7,9 @@
 
 ### Bug Bounties
 
-| Date             | Protocol    | Severity|
-|:-------------------|:-------------|:-----|
-| Aug 2025 | Yearn  | High |
+| Date             | Protocol    | Severity| Write-up |
+|:-------------------|:-------------|:-----|:----|
+| Aug 2025 | Yearn  | High | [Link](https://github.com/yearn/yearn-security/blob/master/disclosures/2025-08-13.md) |
 
 
 ### Public Engagements
