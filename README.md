@@ -16,6 +16,7 @@
 
 | Date             | Protocol    | Format | Ecosystem | Protocol Type |
 |:-------------------|:-------------|:-----|:-------|:-----|
+| October 2025 | Compound Multiplier | Certora  | EVM | Leveraged exposure / looping |
 | October 2025 | Compound Multichain deployment | Certora  | EVM | CCIP deployment tool  |
 | September 2025 | Threshold - Upgradeability | Certora  | EVM | BTC Bridge  |
 | August 2025 | Compound Compensator | Certora  | EVM | COMP delegation  |
