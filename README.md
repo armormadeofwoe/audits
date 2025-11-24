@@ -37,7 +37,7 @@ All undisclosed engagements can be backed with a reference, in case of interest
 ### Notable Public Contests
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
-|October 2025  | 🥇Hybra Finance | C4 | 2 Medium |$5224.75 |
+|October 2025  | 🥇Hybra Finance | Code4rena | 2 Medium |$5224.75 |
 |May 2025  | Alchemix | Cantina | TBD |$TBD |
 |April 2025  | ZKP2P | Sherlock | TBD |OP 672 |
 |April 2025  | Infinifi | Cantina | 1 High 1 Medium |$1248 |
