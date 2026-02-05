@@ -16,6 +16,11 @@
 
 | Date             | Protocol    | Format | Ecosystem | Protocol Type |
 |:-------------------|:-------------|:-----|:-------|:-----|
+| January 2026 | TBA | Certora  | Solana 🦀 | TBA |
+| December 2025 | TBA | Certora  | EVM | TBA |
+| November 2025 | TBA | Certora  | EVM | TBA |
+| October 2025 | Stream Finance | Private  | Solana 🦀 | Yield aggregator |
+| October 2025 | Compound Governance | Certora  | EVM | DAO updates |
 | October 2025 | Compound Multiplier | Certora  | EVM | Leveraged exposure / looping |
 | October 2025 | Compound Multichain deployment | Certora  | EVM | CCIP deployment tool  |
 | September 2025 | Threshold - Upgradeability | Certora  | EVM | BTC Bridge  |
