@@ -16,9 +16,11 @@
 
 | Date             | Protocol    | Format | Ecosystem | Protocol Type |
 |:-------------------|:-------------|:-----|:-------|:-----|
+| March 2026 | TBA | Certora  | EVM | TBA |
+| February 2026 | Voltr/Ranger finance | Certora  | Solana 🦀 | Yield aggregator |
 | January 2026 | TBA | Certora  | Solana 🦀 | TBA |
-| December 2025 | TBA | Certora  | EVM | TBA |
-| November 2025 | TBA | Certora  | EVM | TBA |
+| January 2026 | Curve twocrypto | Certora  | EVM - Vyper | AMM |
+| November 2025 | Kleros v2 | Certora  | EVM | On-chain dispute resolution |
 | October 2025 | Stream Finance | Private  | Solana 🦀 | Yield aggregator |
 | October 2025 | Compound Governance | Certora  | EVM | DAO updates |
 | October 2025 | Compound Multiplier | Certora  | EVM | Leveraged exposure / looping |
