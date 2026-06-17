@@ -17,7 +17,7 @@
 | Date             | Protocol    | Format | Ecosystem | Protocol Type |
 |:-------------------|:-------------|:-----|:-------|:-----|
 | May 2026 | TBA | Certora  | EVM | TBA |
-| June 2026 | TBA | Certora  | EVM | TBA |
+| June 2026 | Compound PRs | Certora  | EVM | PR |
 | May 2026 | Kamino yvault PR | Certora  | Solana 🦀 | PR |
 | May 2026 | APYX Governance review | Certora  | EVM | Stablecoin |
 | April 2026 | Compound Oracle upgrade | Certora  | EVM | PR |
