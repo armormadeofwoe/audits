@@ -16,9 +16,15 @@
 
 | Date             | Protocol    | Format | Ecosystem | Protocol Type |
 |:-------------------|:-------------|:-----|:-------|:-----|
-| March 2026 | TBA | Certora  | EVM | TBA |
+| May 2026 | TBA | Certora  | EVM | TBA |
+| June 2026 | TBA | Certora  | EVM | TBA |
+| May 2026 | Kamino yvault PR | Certora  | Solana 🦀 | PR |
+| May 2026 | APYX Governance review | Certora  | EVM | Stablecoin |
+| April 2026 | Compound Oracle upgrade | Certora  | EVM | PR |
+| April 2026 | Percolator continuation | Certora  | Solana 🦀 | Perp DEX |
+| March 2026 | ENS V2 | Certora  | EVM | Name NFTs |
 | February 2026 | Voltr/Ranger finance | Certora  | Solana 🦀 | Yield aggregator |
-| January 2026 | TBA | Certora  | Solana 🦀 | TBA |
+| January 2026 | Percolator | Certora  | Solana 🦀 | Perp DEX |
 | January 2026 | Curve twocrypto | Certora  | EVM - Vyper | AMM |
 | November 2025 | Kleros v2 | Certora  | EVM | On-chain dispute resolution |
 | October 2025 | Stream Finance | Private  | Solana 🦀 | Yield aggregator |
