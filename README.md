@@ -19,9 +19,11 @@
 | September 2026 | TBA | Cyfrin  | EVM | RWA |
 | July 2026 | Kamino PRs | Certora  | Solana 🦀 | PR |
 | June 2026 | Compound PRs | Certora  | EVM | PR |
+| June 2026 | Lucamoney | Certora  | EVM | Yield |
 | May 2026 | Kamino yvault PR | Certora  | Solana 🦀 | PR |
 | May 2026 | APYX Governance review | Certora  | EVM | Stablecoin |
 | April 2026 | Compound Oracle upgrade | Certora  | EVM | PR |
+| April 2026 | Catalysis | Certora  | EVM | Insurance vaults |
 | April 2026 | Percolator continuation | Certora  | Solana 🦀 | Perp DEX |
 | March 2026 | ENS V2 | Certora  | EVM | Name NFTs |
 | February 2026 | Voltr/Ranger finance | Certora  | Solana 🦀 | Yield aggregator |
